@@ -1,3 +1,4 @@
+Added second line for merge conflict
 First text
 second line
 Third line
